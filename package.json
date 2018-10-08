@@ -2,6 +2,7 @@
   "name": "best-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bmukheja.github.io/react-tic-tac-toe",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
